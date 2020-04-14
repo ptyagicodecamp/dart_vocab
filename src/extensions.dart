@@ -24,21 +24,21 @@ void main() {
   //List of prices
   List prices = [1, 1.99, 4];
 
-  print("Price listing:");
-  print(prices.priceList());
+//  print("Price listing:");
+//  print(prices.priceList());
 
-  print("\nPrice listing with \$ prefix");
-  print(prices.priceLabels("\$"));
-
-  print("\nPrice listing after hiking up prices 3x of the original value");
-  print(prices ^ 3);
-
-  print(
-      "\nSale Price listing: prices are reduced by half of the original value");
+//  print("\nPrice listing with \$ prefix");
+//  print(prices.priceLabels("\$"));
+//
+//  print("\nPrice listing after hiking up prices 3x of the original value");
+//  print(prices ^ 3);
+//
+//  print(
+//      "\nSale Price listing: prices are reduced by half of the original value");
   print(-prices);
-
-  print("\nNumber of total price tags");
-  print(prices.numPrintedPriceTags);
+//
+//  print("\nNumber of total price tags");
+//  print(prices.numPrintedPriceTags);
 }
 
 //What extension methods are, and how to use them.
