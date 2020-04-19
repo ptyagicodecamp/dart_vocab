@@ -6,7 +6,7 @@ enum Weather {
 }
 
 void main() {
-  mainExtension();
+  mainSwitchConstants();
 }
 
 //Using constants to display weather information
