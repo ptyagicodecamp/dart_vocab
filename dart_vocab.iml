@@ -2,7 +2,16 @@
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/src/libraries/lib_ops/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/src/libraries/lib_ops/build" />
+      <excludeFolder url="file://$MODULE_DIR$/src/libraries/math_export/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/src/libraries/math_export/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/src/libraries/math_export/build" />
+      <excludeFolder url="file://$MODULE_DIR$/src/libraries/math_lib1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/src/libraries/math_lib1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/src/libraries/math_lib1/build" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
