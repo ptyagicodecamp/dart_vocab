@@ -8,6 +8,6 @@ void main() {
   print("Sum of $num1 and $num2 is $sum");
 
   //Compile-time error because subtraction() API is hidden
-  //int differnce = subtraction(num1, num2);
-  //print("Differnce of $num1 and $num2 is $differnce");
+  //int difference = subtraction(num1, num2);
+  //print("Difference of $num1 and $num2 is $difference");
 }

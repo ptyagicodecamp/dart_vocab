@@ -7,6 +7,6 @@ void main() {
   //Compile-time error because addition is no longer visible
   //int sum = addition(num1, num2);
 
-  int differnce = subtraction(num1, num2);
-  print("Differnce of $num1 and $num2 is $differnce");
+  int difference = subtraction(num1, num2);
+  print("Difference of $num1 and $num2 is $difference");
 }
