@@ -8,6 +8,9 @@
       <excludeFolder url="file://$MODULE_DIR$/src/libraries/math_export/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/src/libraries/math_export/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/src/libraries/math_export/build" />
+      <excludeFolder url="file://$MODULE_DIR$/src/libraries/math_export/lib/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/src/libraries/math_export/lib/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/src/libraries/math_export/lib/build" />
       <excludeFolder url="file://$MODULE_DIR$/src/libraries/math_lib1/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/src/libraries/math_lib1/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/src/libraries/math_lib1/build" />

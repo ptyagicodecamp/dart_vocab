@@ -9,6 +9,7 @@ void main() {
 
 Future delayedInvocation(int num1, int num2) async {
   //Loads lib1 here
-  int sum = await lib1.addition(num1, num2);
+  await lib1.loadLibrary();
+  int sum = lib1.addition(num1, num2);
   print("Sum of $num1 and $num2 is $sum");
 }
