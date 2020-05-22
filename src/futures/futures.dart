@@ -2,7 +2,7 @@
 
 void main() {
   //Run Example#1.
-  //makeDataCall();
+  makeDataCall();
 
   //Run Example#2.
   //makeDataCallWithException();
@@ -20,7 +20,7 @@ void main() {
   //mainWithFutureAPIError();
 
   //Run Example#7.
-  mainWithFutureAPIWait();
+  //mainWithFutureAPIWait();
 }
 
 //Example#1. Fetching data asynchronously
