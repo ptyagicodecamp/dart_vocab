@@ -1,5 +1,9 @@
 void main() {
-  main1();
+  //Enable the main function that you're interested in exploring
+  //main1();
+  //main2();
+  //main3();
+  main4();
 }
 
 void main1() {
